@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Miguel!</h1>
-  <p>Aspiring Full Stack Web Developer</p>
+  <p>Aspiring Software Engineer</p>
 </div>
 
 ### 👨🏽‍💻 About me
