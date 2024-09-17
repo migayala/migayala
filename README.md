@@ -4,7 +4,7 @@
 </div>
 
 ### 👨🏽‍💻 About me
-- #️⃣ I enjoy Jave the most, but have worked with other languages.
+- #️⃣ I enjoy Java the most, but have worked with other languages.
 - 🔭 I’m currently working on my Bachelor's in Computer Science.
 - 👨🏽‍💻 Currently a Metrology Technician at Monarch Tractor!
 - 🛑 Since I am currently in school, my GitHub has had limited activity because I've been focusing on my schoolwork. If you have any questions please don't hesitate to reach out.
