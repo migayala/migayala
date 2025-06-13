@@ -4,10 +4,9 @@
 </div>
 
 ### 👨🏽‍💻 About me
-- #️⃣  I enjoy Python the most, but have worked with other languages.
-- 🔭 I’m currently working on my Bachelor's in Computer Science.
-- 👨🏽‍💻 Currently a Metrology Technician at Monarch Tractor!
-- 🛑 Since I am currently in school, my GitHub has had limited activity because I've been focusing on my schoolwork. If you have any questions please don't hesitate to reach out.
+- #️⃣ I enjoy Python the most, but have worked with other languages.
+- 🔭 Bachelor's in Computer Science from WGU.
+- 👨🏽‍💻 Currently a Metrology Technician at Monarch Tractor but I also build apps!
 
 > I have been working in Metrology (science of measurements) for years now. I have decided to go back to school and pursue my passion in Computer Science. I enjoy solving problems and hope to apply my skills very soon!
 
