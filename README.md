@@ -4,15 +4,15 @@
 </div>
 
 ### 👨🏽‍💻 About me
-- [cite_start]🤖 **Applied AI Engineer** specializing in LLM integration, production RAG pipelines, and intelligent automation[cite: 4, 15].
-- [cite_start]🎓 **MSCS Candidate** at Georgia Institute of Technology (Specialization: Machine Learning).
-- [cite_start]🔭 **B.S. in Computer Science** from Western Governors University[cite: 35].
-- [cite_start]🚀 Previously built AI tools and precision automation at **Monarch Tractor** and automated testing pipelines at **Google**[cite: 14, 22].
+- 🤖 **Applied AI Engineer** specializing in LLM integration, production RAG pipelines, and intelligent automation.
+- 🎓 **MSCS Candidate** at Georgia Institute of Technology (Specialization: Machine Learning).
+- 🔭 **B.S. in Computer Science** from Western Governors University.
+- 🚀 Previously built AI tools and precision automation at **Monarch Tractor** and automated testing pipelines at **Google**.
 
 ### 🛠️ Technical Stack & AI Focus
-- [cite_start]**AI/ML:** LLM Integration, RAG Pipelines, Prompt Engineering, Evaluation Frameworks, Vector Embeddings[cite: 9].
-- [cite_start]**Languages:** Python (Primary), TypeScript, JavaScript, SQL[cite: 10].
-- [cite_start]**Full-Stack:** React, Next.js, Node.js, Express.js, FastAPI, PostgreSQL, Docker[cite: 11, 12].
+- **AI/ML:** LLM Integration, RAG Pipelines, Prompt Engineering, Evaluation Frameworks, Vector Embeddings.
+- **Languages:** Python (Primary), TypeScript, JavaScript, SQL.
+- **Full-Stack:** React, Next.js, Node.js, Express.js, FastAPI, PostgreSQL, Docker.
 
 <h3 align="center">Tools:</h3>
 <p align="center">
